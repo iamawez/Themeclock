@@ -2,8 +2,11 @@
 A simple web application that displays a theme clock with dark and light mode options.
 
 #Features
+
 Display current time in a visually appealing format.
+
 Toggle between dark and light mode for different visual themes.
+
 Smooth transitions and animations for a pleasant user experience.
 
 

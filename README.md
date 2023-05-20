@@ -3,7 +3,7 @@ A simple web application that displays a theme clock with dark and light mode op
 
 # Features
 
-Display current time in a visually appealing format.
+* Display current time in a visually appealing format.
 
 Toggle between dark and light mode for different visual themes.
 

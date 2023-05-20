@@ -5,18 +5,18 @@ A simple web application that displays a theme clock with dark and light mode op
 
 * Display current time in a visually appealing format.
 
-Toggle between dark and light mode for different visual themes.
+* Toggle between dark and light mode for different visual themes.
 
-Smooth transitions and animations for a pleasant user experience.
+* Smooth transitions and animations for a pleasant user experience.
 
 
 # Technologies Used
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-JavaScript
+* JavaScript
 
 
 # Usage

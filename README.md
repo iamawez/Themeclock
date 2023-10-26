@@ -18,9 +18,6 @@ A simple web application that displays a theme clock with dark and light mode op
 
 * JavaScript
 
-# Demo
-https://iamawez.github.io/Themeclock/
-
 
 # Usage
 
@@ -31,3 +28,7 @@ https://iamawez.github.io/Themeclock/
 3.The clock will be displayed with the current time.
 
 4.Click the mode toggle button to switch between dark and light mode.
+
+
+# Demo
+https://iamawez.github.io/Themeclock/

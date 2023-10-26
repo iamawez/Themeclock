@@ -18,6 +18,9 @@ A simple web application that displays a theme clock with dark and light mode op
 
 * JavaScript
 
+# Demo
+https://iamawez.github.io/Themeclock/
+
 
 # Usage
 
